@@ -11,9 +11,11 @@
 ## 注意事項
 - このサーバーは、基本的には参加者同士協力して楽しむPvEサーバーです。
 - 最低3ヶ月（2025年1～3月中）は稼働します。
+- 配信していないときでも自由に新規参加、遊んでいただいてかまいません。
 - 1人で遊ぶ用のソロ拠点も推奨しています。
 - サーバーの設定は変わる可能性があります。
 - ゲーム内ボイスチャットは配信の関係で基本利用せず、テキストチャットか別途Discordを利用してください。
+- サーバーはメンテナンスやアップデートのため、毎朝早朝4時～4時30分ごろに自動で再起動されます。
 - サーバーは新マップ実装など、大きなアップデートの節目（半年ぐらい？）でリセットされる可能性があります。
 - 数ヶ月ログインがなかったキャラクターと建造物は撤去される可能性があります。
 - サーバーの運用費はメンバーシップの収入で維持されています。赤字が続くとサーバーが縮小したり、1ヶ月の猶予期間を経て終了する可能性があります。
@@ -46,7 +48,8 @@
 |1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/cryopods">Pelayori's Cryo Storage (Crossplay!)</a>|Add Cryopods, cryofridge, INI settings, Cryogun, Neutergun, cryo terminal (to pick up babies), and much more!|
 |1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/super-spyglass-plus">Super Spyglass Plus</a>|EngramEntry_SuperSpyglassPlus_Cだけ使えるようにしてあります|
 |1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/utilities-plus">Utilities Plus</a>|U+ Binocularsは使えないようにしてあります|
-|1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/where-are-the-bodies-corpse-finder">Where Are The Bodies - Corpse & Bag Finder</a>|Adds an entry to the player radial menu to highlight nearby corpses/death caches.|
+|1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/where-are-the-bodies-corpse-finder">Where Are The Bodies - Corpse & Bag Finder</a>|Rキーで開くプレイヤーのメニューに、近くの死体や死骸の隠し場所をハイライトする項目を追加します。|
+|1|<a href="[https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker](https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker)">Lily's Tweaker</a>|F5キーで霧や雲の表現を緩和します。|
 
 #### 現在のサーバー設定
 ##### プレイヤー
