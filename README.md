@@ -49,7 +49,7 @@
 |1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/super-spyglass-plus">Super Spyglass Plus</a>|EngramEntry_SuperSpyglassPlus_Cだけ使えるようにしてあります|
 |1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/utilities-plus">Utilities Plus</a>|U+ Binocularsは使えないようにしてあります|
 |1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/where-are-the-bodies-corpse-finder">Where Are The Bodies - Corpse & Bag Finder</a>|Rキーで開くプレイヤーのメニューに、近くの死体や死骸の隠し場所をハイライトする項目を追加します。|
-|1|<a href="[https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker](https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker)">Lily's Tweaker</a>|F5キーで霧や雲の表現を緩和します。|
+|1|<a href="https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker">Lily's Tweaker</a>|F5キーで霧や雲の表現を緩和します。|
 
 #### 現在のサーバー設定
 ##### プレイヤー
